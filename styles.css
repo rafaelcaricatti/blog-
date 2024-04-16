@@ -51,7 +51,11 @@ footer p{
     padding-bottom: 0px;
     margin: 0%;
 }
-
+.imagem-carrossel {
+    width: 50%; /* Defina a largura desejada para as imagens */
+    height: auto; /* Mantém a proporção da imagem */
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+}
 
 /* Estilos específicos para index.html */
 
